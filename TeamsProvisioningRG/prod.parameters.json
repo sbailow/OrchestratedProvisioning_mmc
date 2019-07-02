@@ -6,25 +6,25 @@
         "value": "TeamsProvisioningProd"
       },
       "repoUrl": {
-        "value": "https://github.com/BobGerman/TeamsProvisioning.git"
+        "value": "https://github.com/sbailow/OrchestratedProvisioning_mmc.git"
       },
       "branch": {
         "value": "prod"
       },
       "TENANT": {
-        "value": "a25d4ef1-c73a-4dc1-bdb1-9a342260f216"
+        "value": "e9d1b5a1-8ab7-490e-82c5-dbe6af4ffe81"
       },
       "TENANT_NAME": {
-        "value": "bgtest18"
+        "value": "365sbvsmmcoutlook"
       },
       "CLIENT_ID": {
-        "value": "3b34741d-68fc-4465-b25e-d6fba3de701d"
+        "value": "129e98c2-1dd3-4f80-b896-98cb3249d6df"
       },
       "CLIENT_SECRET": {
-        "value": "@Microsoft.KeyVault(SecretUri=https://teamsprovisioning.vault.azure.net/secrets/client-secret/cd56ab45a33e47bfb0b091c75b99099a)"
+        "value": "@Microsoft.KeyVault(SecretUri=https://teams-auto.vault.azure.net/secrets/Teams-automation-sec/6e53a36a303140588674632cd43c7870)"
       },
       "TEMPLATE_SITE_URL": {
-        "value": "/sites/TeamsProvisioning"
+        "value": "/sites/Teams_auto"
       },
       "TEMPLATE_LIB_NAME": {
         "value": "Templates"
