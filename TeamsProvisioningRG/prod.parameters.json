@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "appName": {
-        "value": "TeamsProvisioningProd"
+        "value": "TeamsProvisioningProdApp"
       },
       "repoUrl": {
         "value": "https://github.com/sbailow/OrchestratedProvisioning_mmc.git"
